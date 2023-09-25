@@ -18,10 +18,6 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>WhatId</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>WhoId</field>
             </layoutItems>
         </layoutColumns>
